@@ -1,0 +1,31 @@
+{
+  "name": "avatar-homepage-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@juggle/resize-observer": "3.2.0",
+    "@react-spring/three": "9.0.0-rc.3",
+    "@react-three/drei": "2.2.13",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.1",
+    "react-three-fiber": "5.3.7",
+    "three": "0.123.0",
+    "twind": "0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
